@@ -1,0 +1,9 @@
+.less {
+  border: 4px dashed red;
+  padding: 10px;
+  background-color: blue;
+  color: #ede7f6;
+}
+.less p {
+  color: #ff00ff;
+}

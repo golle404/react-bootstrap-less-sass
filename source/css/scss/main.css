@@ -1,0 +1,7 @@
+.scss {
+  border: 4px dotted #ccc;
+  padding: 10px;
+  background-color: #abcdef;
+  color: #feddef; }
+  .scss p {
+    color: maroon; }

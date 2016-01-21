@@ -1,0 +1,9 @@
+.css{
+	border: 4px solid black;
+	padding: 10px;
+	background-color: red;
+	color: #fff;
+}
+.css p {
+  color: #ccc;
+}
